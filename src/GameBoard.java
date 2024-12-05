@@ -1,7 +1,5 @@
 /**
  *Pallav Regmi
- * CS351L - 3S1
- * Project1 - TileGame
  */
 
 import javafx.geometry.Insets;
