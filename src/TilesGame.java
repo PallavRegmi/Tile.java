@@ -1,7 +1,5 @@
 /**
  *Pallav Regmi
- * CS351L - 3SW
- * Project1 - TileGame
  */
 
 import javafx.application.Application;
